@@ -1,6 +1,6 @@
 
 
-[![GitHub followers](https://img.shields.io/github/followers/mohtasironom?label=Follow&style=social)](https://github.com/rejwar)
+[![GitHub followers](https://img.shields.io/github/followers/mohtasironom?label=Follow&style=social)](https://github.com/mohtasironom)
 
 ![](https://komarev.com/ghpvc/?username=mohtasironom&color=brightgreen)
 
