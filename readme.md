@@ -52,4 +52,4 @@
 
 
 <!--Made by  Md. Rejwar Rahman Rifat    https://github.com/rejwar-->
-[![Rejwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohtasironom&bg_color=121212&color=f2f2f2&line=f9fbfb&point=56af0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![onom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohtasironom&bg_color=121212&color=f2f2f2&line=f9fbfb&point=56af0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
