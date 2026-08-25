@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/7bc3cfc8-7413-485c-8073-1c00ce70781d.svg)](https://wakatime.com/@7bc3cfc8-7413-485c-8073-1c00ce70781d)
 
-[![committers.top badge](https://user-badge.committers.top/china/mohtasironom.svg)](https://user-badge.committers.top/china/rejwar)
+[![committers.top badge](https://user-badge.committers.top/china/mohtasironom.svg)](https://user-badge.committers.top/china/mohtasironom)
 
 <!--  [![committers.top badge](https://user-badge.committers.top/bangladesh_public/rejwar.svg)](https://user-badge.committers.top/bangladesh_public/rejwar) -->
 
